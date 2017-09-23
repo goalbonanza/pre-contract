@@ -4,17 +4,17 @@ In addition to the unique game mechanics, Goal Bonanza revolutionary concept tap
 
 Build on ethereum platform and adopting ethereum as the underlying game currency, Goal Bonanza will significantly contribute to the crypto-community and the ethereum platform by increasing the demand for ethereum cryptocurrency, increase its value, and induce adoption in the global betting marketplace.
 
-Website: http://goalbonanza.com
-Twitter: twitter.com/goalbonanza
-Linkedin:: https://www.linkedin.com/company/24996762/
-Facebook: https://www.facebook.com/goalbonanza/ 
-Reddit: https://www.reddit.com/user/goalbonanza
-Github: https://github.com/goalbonanza
-Telegram: https://t.me/joinchat/FbkvpwsImFz2HcZ9nHBvEQ
-Slack: https://goalbonanza.slack.com
-Whitepaper EN: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0.pdf
-Whitepaper ES: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0-Spanish.pdf
-Whitepaper CN: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0_Chinese.pdf
-Whitepaper RU: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0-Russian.pdf
-Whitepaper KO: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0_Korean.pdf
-Whitepaper JP: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0_Japanese.pdf
+Website: http://goalbonanza.com<br/>
+Twitter: twitter.com/goalbonanza<br/>
+Linkedin:: https://www.linkedin.com/company/24996762/<br/>
+Facebook: https://www.facebook.com/goalbonanza/<br/>
+Reddit: https://www.reddit.com/user/goalbonanza<br/>
+Github: https://github.com/goalbonanza<br/>
+Telegram: https://t.me/joinchat/FbkvpwsImFz2HcZ9nHBvEQ<br/>
+Slack: https://goalbonanza.slack.com<br/>
+Whitepaper EN: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0.pdf<br/>
+Whitepaper ES: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0-Spanish.pdf<br/>
+Whitepaper CN: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0_Chinese.pdf<br/>
+Whitepaper RU: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0-Russian.pdf<br/>
+Whitepaper KO: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0_Korean.pdf<br/>
+Whitepaper JP: http://www.goalbonanza.com/wp-content/uploads/2017/09/Goal-Bonanza-White-Paper-v1.0_Japanese.pdf<br/>
