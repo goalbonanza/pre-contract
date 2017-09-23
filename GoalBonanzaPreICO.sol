@@ -247,7 +247,7 @@ contract CrowdsaleToken is StandardToken, Ownable {
   
   uint public constant BEGIN_TIME = 1506787200;
   
-  uint public constant END_TIME = 1507996800;
+  uint public constant END_TIME = 1509379200;
 
   uint public minCap = 3333 ether;
   uint public maxCap = 6666 ether;
