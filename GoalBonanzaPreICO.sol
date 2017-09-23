@@ -252,7 +252,7 @@ contract CrowdsaleToken is StandardToken, Ownable {
   uint public minCap = 3333 ether;
   uint public maxCap = 6666 ether;
   uint public ethRaised = 0;
-  uint public tokenTotalSupply = 50000000;
+  uint public tokenTotalSupply = 100000000;
   
   uint nextContributorToClaim;
   mapping(address => bool) hasClaimedEthWhenFail;
