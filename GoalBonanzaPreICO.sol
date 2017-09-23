@@ -245,9 +245,9 @@ contract CrowdsaleToken is StandardToken, Ownable {
   event MinCapReached(uint blockNumber);
   event MaxCapReached(uint blockNumber);
   
-  uint public constant BEGIN_TIME = 1506816000;
+  uint public constant BEGIN_TIME = 1506787200;
   
-  uint public constant END_TIME = 1508025600;
+  uint public constant END_TIME = 1507996800;
 
   uint public minCap = 3333 ether;
   uint public maxCap = 6666 ether;
